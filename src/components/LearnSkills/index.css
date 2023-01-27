@@ -1,0 +1,115 @@
+.app-container {
+  background-color: #dfe6f2;
+  opacity: 100%;
+  min-height: 100%;
+}
+.menu-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+}
+.website-logo {
+  color: #000000;
+  font-size: 18px;
+  font: 36 px | Raleway SemiBold;
+  font-weight: 700;
+}
+.nav-menu {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 90px;
+}
+.menu-item {
+  font: 36 px | Raleway SemiBold;
+  color: #000000;
+  margin-left: 45px;
+}
+.learn-skills-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.heading {
+  font: 90 px | Raleway Medium;
+  font-weight: 400;
+  font-size: 50px;
+}
+.para {
+  font: 36 px|Roboto Light;
+  color: #00000;
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.button1 {
+  background-color: transparent;
+  border-radius: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 40px;
+  font: 36 px | Raleway medium;
+  color: #000;
+  font-weight: 700;
+  opacity: 60%;
+  margin-left: 0px;
+}
+.button2 {
+  background-color: transparent;
+  border-radius: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 40px;
+  font: 36 px | Raleway medium;
+  color: #000;
+  font-weight: 700;
+  opacity: 100%;
+}
+.skills-image {
+  height: 300px;
+  width: 300px;
+  border-radius: 300px;
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
+.hiring-partners {
+  background-color: #cccccc;
+  opacity: 60%;
+  padding-left: 40px;
+  padding-top: 10px;
+}
+.hiring-para {
+  color: #000000;
+  font: 36 px | Raleway medium;
+  opacity: 100%;
+  margin: 0px;
+}
+.logos-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin-top: 0px;
+}
+.logo-image {
+  height: 30px;
+  width: 90px;
+  margin-right: 40px;
+}
+.logo-image1 {
+  height: 80px;
+  margin-right: 40px;
+}
+.logo-image2 {
+  height: 50px;
+  margin-bottom: 10px;
+}
+.logo-image4 {
+  margin-left: 40px;
+  height: 30px;
+}
